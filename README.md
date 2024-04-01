@@ -8,6 +8,7 @@ However, if you need to collect pathway completeness stats from a cohort of geno
 **What do you need?**
 
 You shall have the tab files in one directory
+
 *What about dependencies?*
 
 Pandas, csv, argparse
