@@ -3,7 +3,7 @@
 **What is this script?**
 
 [MicrobeAnnotator](https://github.com/cruizperez/MicrobeAnnotator) is a great tool for metabolic pathway annotation.
-However, if you need to collect pathway completeness stats from a cohort of genomes into one condensed CSV (to make a heatmap), you are IN the right repo! 
+However, if you need to collect pathway completeness stats from a cohort of genomes into one condensed CSV (to make a heatmap), you are in the right repo! 
 
 **What do you need?**
 
