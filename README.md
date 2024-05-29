@@ -1,5 +1,5 @@
 # MicrobeAnnotator_stats
-
+**Kindly if you find this repo useful for your work, cite & star this repo**
 **What is this script?**
 
 [MicrobeAnnotator](https://github.com/cruizperez/MicrobeAnnotator) is a great tool for metabolic pathway annotation.
